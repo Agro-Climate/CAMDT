@@ -3,8 +3,6 @@ Climate Agriculture Modeling and Decision Tool for the Bicol region, Philippines
 
 The CAMDT is a computer desktop tool designed to guide decision-makers in adopting appropriate crop and water management practices that can improve crop yields given a climatic condition.
 
-
-==================================================
 *Note(July, 2017)
 1) If you are new to Python, one of the best ways to run CAMDT is to install Anaconda which help you avoid isntalling all requried modules separately.
 https://www.continuum.io/anaconda-overview
