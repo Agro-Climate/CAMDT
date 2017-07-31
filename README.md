@@ -11,5 +11,5 @@ If you have an issue with graphs, try to install an older version of Anaconda (4
 2) CAMDT uses TkInter (Python interface for GUI) and pmw widget to create graphical user-interface. You need to install pmw after installing Anaconda.  
 http://pmw.sourceforge.net/doc/starting.html 
 
-3) Weather files (*.WTD and *.WTH) are GENERATED data, based on actual monthly statistics. Users can use their own observed data to use the tool in their location
+3) Weather files (*.WTD and *.WTH) are GENERATED data, based on actual climatology. Users can use their own observed data to use the tool in their location
 
